@@ -2,7 +2,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "mongoose": "^6.1.4"
+    "mongoose": "^6.1.4",
+    "mongoose-encryption": "^2.1.2"
   },
   "name": "secrets---starting-code",
   "version": "1.0.0",
